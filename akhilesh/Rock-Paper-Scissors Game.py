@@ -36,4 +36,3 @@ def play_game():
             print("\nThank you for playing!")
             break
 play_game()
-\
